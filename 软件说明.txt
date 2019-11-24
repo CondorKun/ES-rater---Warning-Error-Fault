@@ -1,0 +1,37 @@
+/*
+ *  Team: Warning&Error&Fault
+ *  Developers: Chen Gan, Zhaokun Feng, Yujie Zhang
+ *  Project: ES Rater
+ */
+
+This software to be completed aims at facilitating the calligraphy fans, especially who are keen at the font which is called ES.
+
+The ideal version of the software should be  
+accessible to clients through all the platforms  
+including ios, android and windows. By employing  
+this application, the client only need to upload the  
+picture of a single capital or lower-case letter  
+written by them. And then the application can  
+automatically recognize the character and compare  
+it with the perfect and standard letter to grade the  
+letter and offer the clients some practical suggestions to improve their calligraphy skills.
+
+However, the current situation is disappointing. The  
+application is not very user-friendly. In order to  
+obtain their score of a hand-writing letter, the client  
+has to prepare a corresponding standard and perfect  
+letter in advance. And they can only access to the  
+visit a specific website and upload their hand-writing  
+letter as well as the perfect one. After that, the  
+website can give a feedback of the similarity of the  
+two letters without suggestions.
+
+The detailed instructions on how to employ our  
+application is unnecessary, considering the concision  
+of our website. Just visit it and try it for yourself!
+
+Moreover, in spite of the current dim situation, the  
+value and further application of our website is not  
+limited. For example, we are considering build a community for the calligraphy fans to interact and communicate with each other. In addition, we can also use the files uploaded by the clients to sharpen our future machine learning model. 
+
+Last but not least, the clients may find that there is a file named "hack1.py" in our package. At first, we try to call the python program in our website. Unfortunately, we later found it was too difficult for us to realize that idea. Alternatively, we choose to learn some basic knowledge of the Javascripts quickly to complete the application.
